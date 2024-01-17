@@ -1,6 +1,4 @@
-# password-Generator
-Password generator using React and hooks
-Certainly! Here's a suggested README description for your project:
+
 
 ---
 # Password Generator using React Hooks
