@@ -27,9 +27,7 @@ Feel free to explore the code, contribute, and enhance your web development skil
 ## Contributors
 - Samikshya Nanda  via Hitesh Choudhary react course on Youtube
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-M
+
