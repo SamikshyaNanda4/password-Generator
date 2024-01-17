@@ -63,7 +63,7 @@ Check out the live demo [https://hardpasswordgenerator.netlify.app/] (Netlify Li
 Feel free to explore the code, contribute, and enhance your web development skills!
 
 ## Contributors
-- [Your Name]
+- Samikshya Nanda  via Hitesh Choudhary react course on Youtube
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
