@@ -53,7 +53,7 @@ Generate secure and straightforward passwords effortlessly with this React-based
 - JavaScript
 
 ## Demo
-Check out the live demo [https://hardpasswordgenerator.netlify.app/](Netlify Link).
+Check out the live demo [https://hardpasswordgenerator.netlify.app/] (Netlify Link).
 
 ## How to Use
 1. Clone the repository.
